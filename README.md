@@ -32,7 +32,7 @@
 
 - [ ] luhaoling
 
-- [ ] meguminkin
+- [X] meguminkin
 
 - [ ] FirwoodLin
 
