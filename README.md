@@ -28,7 +28,7 @@
 
 - [x] mo3et
 
-- [ ] Li1Mo0N
+- [x] Li1Mo0N
 
 - [ ] luhaoling
 
