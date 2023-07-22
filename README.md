@@ -24,7 +24,7 @@
 
 - [ ] alilestera
 
-- [ ] intyouss
+- [x] intyouss
 
 - [x] mo3et
 
