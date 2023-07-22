@@ -4,7 +4,7 @@
 
 # Introduction
 
-欢迎你已经踏开了 Github 大门的第一步, 没错, 就是多人协同. 下面这个教程是有关于如何使用 Github 进行代码的提交(日后也可以用作对开源项目的提交). 来尝试一下吧!
+欢迎你已经踏开了 Github 大门的第一步, 没错, 就是多人协同. 下面这个教程是有关于如何使用 Github 进行代码的提交(也方便日后对开源项目进行贡献). 来尝试一下吧!
 
 **这次我们要完成一次把 文件名为自己ID 的md文件, 提交到这个仓库里并进行合并.**
 
@@ -15,9 +15,9 @@
 - 编写一个 <username>.md, 里面内容可以随便写一些(或者空). 然后修改 `ReadME.md` 中, 在 TODO list 自己 id 的前面打上勾.
 - push 到你当前分支.
 - 打开 Github 对应 repo 的页面, 点击上方的 **Pull Requests**, 选择 New pull Request.
-- 进入到 Compare 界面, 左边的分支是仓库的分支, 右边的分支是你选择提交的分支. 例如 `base:remote/main  <- Compare:fork/feat`, 左边的 main 可以改为你想要提交到的分支,如 `dev`. 右边的 feat 可以改为你创建的 branch ,例如本次的 `test/<username>`.
+- 进入到 Compare 界面, 左边的分支是仓库的分支, 右边的分支是你选择提交的分支. 例如 `base:remote/main  <- Compare:fork/feat`, 左边的 main 可以改为你想要提交到的分支,如 `dev`. 右边的 feat 可以改为你创建的 branch ,例如本次的 `test/<username>`.(`base repository: toomanysource/hello-Github base:main <- head repository:<username>/hello-Github compare:test/<username>`)
 - 点击 Create Pull Request.
-- 撰写 PR 的 Title 和 Details. 标题为 **<username> First Pull Request**, 内容就写自己的名字和 Github id啦, 方便小伙伴们认识彼此的账号.(不用担心隐私问题, 完成后会将此 repo 改为 private)
+- 撰写 PR 的 Title 和 Details. 标题为 **<username> First Pull Request**, 内容就写自己的真实名字和 Github id啦, 方便小伙伴们认识彼此的账号.(不用担心隐私问题, 完成后会将此 repo 改为 private)
 - 确认后,就到群里找小伙伴来给你通过 PR 啦.
 
 # Members
@@ -26,7 +26,7 @@
 
 - [x] intyouss
 
-- [ ] mo3et
+- [x] mo3et
 
 - [ ] Li1Mo0N
 
